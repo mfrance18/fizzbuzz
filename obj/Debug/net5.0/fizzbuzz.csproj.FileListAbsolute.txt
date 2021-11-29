@@ -1,0 +1,16 @@
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.exe
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.deps.json
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.runtimeconfig.json
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.runtimeconfig.dev.json
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.dll
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\ref\fizzbuzz.dll
+C:\Users\trump\workspace\csharp\fizzbuzz\bin\Debug\net5.0\fizzbuzz.pdb
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.dll
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\ref\fizzbuzz.dll
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.pdb
+C:\Users\trump\workspace\csharp\fizzbuzz\obj\Debug\net5.0\fizzbuzz.genruntimeconfig.cache
